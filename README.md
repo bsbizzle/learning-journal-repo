@@ -3,7 +3,7 @@ A journal to record my progression
 
 ## Growth Mindset
 
->To hold the axiom in my mind that it's okay to feel like you don't know enough since we can't know everything. Just keep going!
+>To hold the axiom in my mind that _it's okay_ to feel like you don't know enough since we can't know everything. Just keep going!
 
 ### Reminders
 
