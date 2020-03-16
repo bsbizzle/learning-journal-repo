@@ -12,4 +12,4 @@ A journal to record my progression
 - Step back and look what you've done when "stuck" 
   - Ask for help when work stoppage lasts longer than 15 minutes
   
-Inspired [by](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+Inspired by [How You Can Benefit From a Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
