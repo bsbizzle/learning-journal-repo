@@ -9,7 +9,7 @@ A journal to record my progression
 
 - Be malleable
 - Don't let frustration get you down! :confounded:
-- Step back and look what you've done when "stuck" 
+- Step back and look at what you've done when "stuck" 
   - Ask for help when work stoppage lasts longer than 15 minutes
   
 Inspired by [How You Can Benefit From a Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
