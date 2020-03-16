@@ -8,6 +8,8 @@ A journal to record my progression
 ### Reminders
 
 - Be malleable
-- Don't let frustration get you down! :counfounded:
+- Don't let frustration get you down! :confounded:
 - Step back and look what you've done when "stuck" 
   - Ask for help when work stoppage lasts longer than 15 minutes
+  
+Inspired [by] (https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
