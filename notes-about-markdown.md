@@ -24,6 +24,6 @@
 - Strikethrough
 - Emoji
 
-### Want to see a fun vid on how this gets put together? Click [here!](https://youtu.be/2MsN8gpT6jY)
+### Want to see a fun vid? Click [here!](https://youtu.be/2MsN8gpT6jY)
 
 ### Deets? Click [here!](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
