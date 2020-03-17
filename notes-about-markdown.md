@@ -1,24 +1,24 @@
-What is Markdown?
-it's styling text displayed on the web
+### **What is Markdown?**
+> It's styling text displayed on the web
 
-Examples?
-headers
-emphasis (italics and bold)
-lists (ordered and unordered)
-images
-links (URLs)
-blockquotes
-inline code
+**Examples**
+- Headers
+- Emphasis (italics and bold)
+- Lists (ordered and unordered)
+- Images
+- Links (URLs)
+- Blockquotes
+- Inline Code
 
-GitHub has its own version of Markdown known as "flavored" Markdown
+### **GitHub has its own version of Markdown known as "flavored" Markdown**
 
-Examples
-Syntax highlighting
-Task lists
-Tables
-SHA references
-Issue references within a repository
-Username @mentions
-Automatic linking for URLs
-Strikethrough
-Emoji
+**Examples**
+- Syntax Highlighting
+- Task Lists
+- Tables
+- SHA References
+- Issue References Within a Repository
+- Username @mentions
+- Automatic Linking for URLs
+- Strikethrough
+- Emoji
