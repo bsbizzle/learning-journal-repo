@@ -29,5 +29,14 @@
   - Tells you what your current or present working directory is
 - ls (list)
   - Tells you what is in the directory
+  - -a includes hidden files
 - cd (change directory)
   - Move to another directory
+- file 
+  - Obtain information about what type of file a file or directory is
+
+### Important Concepts
+- Everything is a file (even directories)
+- Extensionless system (files can have any extension they like or none at all)
+- Case sensitive (beware of typos)
+
