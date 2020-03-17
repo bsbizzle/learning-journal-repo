@@ -23,3 +23,5 @@
 - Automatic Linking for URLs
 - Strikethrough
 - Emoji
+
+### Want to see a fun vid on how this gets put together? Click [here!](https://youtu.be/2MsN8gpT6jY)
