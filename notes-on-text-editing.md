@@ -1,3 +1,5 @@
 # Text Editors
 
-## Atom
+## Text Edit (Mac)
+## Notepad (Windows)
+- 
