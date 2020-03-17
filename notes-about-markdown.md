@@ -10,7 +10,8 @@
 - Blockquotes
 - Inline Code
 
-### **GitHub has its own version of Markdown known as "flavored" Markdown**
+### **GitHub has its own version of Markdown**
+> "Flavored" Markdown
 
 **Examples**
 - Syntax Highlighting
