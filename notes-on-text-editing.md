@@ -1,3 +1,5 @@
+### Return to [Home](https://bsbizzle.github.io/learning-journal-repo/)
+
 # Text Editors
 > The below are like favorite sports teams; you stick with what you like and adjust usage based on what features are desired.
 

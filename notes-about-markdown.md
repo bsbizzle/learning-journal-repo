@@ -1,4 +1,6 @@
-### **What is Markdown?**
+### Return to [Home](https://bsbizzle.github.io/learning-journal-repo/)
+
+# **What is Markdown?**
 > It's styling text displayed on the web
 
 **Examples**
@@ -10,7 +12,7 @@
 - Blockquotes
 - Inline Code
 
-### **GitHub has its own version of Markdown?**
+# **GitHub has its own version of Markdown?**
 > It is known as "Flavored" Markdown
 
 **Examples**

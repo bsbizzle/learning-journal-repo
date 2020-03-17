@@ -1,3 +1,5 @@
+### Return to [Home](https://bsbizzle.github.io/learning-journal-repo/)
+
 # Git Tutorial
 
 ### Version Controls
@@ -13,5 +15,8 @@
 - committing files and changes
 - pushing and stashing changes
 - view remotes (to see what versions reside online)
+
+### Git Learnings
+- copy and paste URL from GitHub clone tab for cloning purposes
 
 ### Deets? Click [here](https://www.udemy.com/blog/git-tutorial-a-comprehensive-guide/#5).
