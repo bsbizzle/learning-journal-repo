@@ -1,5 +1,5 @@
 ### **What is Markdown?**
-> It's styling text displayed on the web
+> It's styling content displayed on the web
 
 **Examples**
 - Headers
